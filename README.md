@@ -16,7 +16,3 @@ The extension will automatically run on any AWS Console page. It will:
 - Attempt to close modals as soon as they appear
 - Watch for dynamically added modals
 - Periodically check for new modals
-
-## Note
-
-You'll need to add icon files (icon48.png and icon128.png) to the extension directory for it to work properly. These can be any PNG images of the corresponding sizes (48x48 and 128x128 pixels). 
